@@ -1,8 +1,16 @@
-### Hey there 👋
+### Hey there
 ### The repos here contain
 - Things I am curious about and try to learn by doing
 - Tips and tricks I think I should keep handy for later use
 - Stuff I use in trainings and sessions 
+
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/hrmeetsingh/">LinkedIn</a> |
+  <a href="https://twitter.com/ErHarmeet">Twitter</a>
+</p>
+
+---
 
 <!--
 **hrmeetsingh/hrmeetsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
