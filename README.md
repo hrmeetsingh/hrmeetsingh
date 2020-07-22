@@ -4,6 +4,8 @@
 - Tips and tricks I think I should keep handy for later use
 - Stuff I use in trainings and sessions 
 
+![Harmeet's Github repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&show_icons=true)
+
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/hrmeetsingh/">LinkedIn</a> |
