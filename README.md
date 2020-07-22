@@ -1,8 +1,8 @@
 ### Hey
-These repos have
-- Tech and projects I am curious about and try to learn by doing
-- Tips and tricks I think I should keep handy for later use
-- Stuff I use for trainings and sessions 
+__These repos have__
+- __Tech and projects I am curious about and try to learn by doing__
+- __Tips and tricks I think I should keep handy for later use__
+- __Stuff I use for trainings and sessions__
 
 ![Harmeet's Github repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&show_icons=true)
 
