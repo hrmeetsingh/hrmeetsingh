@@ -1,19 +1,15 @@
-### Hey there
-### The repos here contain
+### Hey
+These repos are for
 - Things I am curious about and try to learn by doing
 - Tips and tricks I think I should keep handy for later use
-- Stuff I use in trainings and sessions 
+- Stuff I use for trainings and sessions 
 
 ![Harmeet's Github repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&show_icons=true)
 
+[![Github Badge](https://img.shields.io/badge/-hrmeetsingh-blue?style=social&logo=Github&link=https://github.com/hrmeetsingh/)](https://github.com/hrmeetsingh/) 
+| [![Twitter Badge](http://img.shields.io/badge/-@ErHarmeet-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ErHarmeet)](https://twitter.com/ErHarmeet) 
+| [![Linkedin Badge](https://img.shields.io/badge/-hrmeetsingh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hrmeetsingh/)](https://www.linkedin.com/in/hrmeetsingh/)
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/hrmeetsingh/">LinkedIn</a> |
-  <a href="https://twitter.com/ErHarmeet">Twitter</a>
-</p>
-
----
-
 <!--
 **hrmeetsingh/hrmeetsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
