@@ -1,6 +1,6 @@
 ### Hey
-These repos are for
-- Things I am curious about and try to learn by doing
+These repos have
+- Tech and projects I am curious about and try to learn by doing
 - Tips and tricks I think I should keep handy for later use
 - Stuff I use for trainings and sessions 
 
