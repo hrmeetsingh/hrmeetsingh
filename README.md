@@ -4,7 +4,7 @@ __These repos have__
 - __Tips and tricks I think I should keep handy for later use__
 - __Stuff I use for trainings and sessions__
 
-![Harmeet's Github repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&show_icons=true)
+![Harmeet's Github repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
 [![Github Badge](https://img.shields.io/badge/-hrmeetsingh-blue?style=social&logo=Github&link=https://github.com/hrmeetsingh/)](https://github.com/hrmeetsingh/) 
 | [![Twitter Badge](http://img.shields.io/badge/-@ErHarmeet-blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ErHarmeet)](https://twitter.com/ErHarmeet) 
