@@ -1,10 +1,10 @@
 ### Hey
 I am Harmeet, an experienced professional with a passion for lifelong learning, mentoring and advocating open source, I am a bibliophile with an analytical mind, dedicated to continuous growth and innovation. Other than code, I enjoy working on IoT projects and reading about cybersecurity. My experience as an SDET is the reason I think of automating anything and everything around me.
 
-__The repos here are__
-- __Tech and projects I am curious about and try to learn by doing__
-- __Tips and tricks I think I should keep handy for later use__
-- __Stuff I use for trainings and sessions__
+The repos are
+- Tech and projects I am curious about and try to learn by doing
+- Tips and tricks I think I should keep handy for later use
+- Stuff I use for trainings and sessions
 
 ![Harmeet's repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
@@ -12,7 +12,7 @@ __The repos here are__
 [![Twitter Badge](http://img.shields.io/badge/-@ErHarmeet-blue?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/ErHarmeet)](https://twitter.com/ErHarmeet) 
 [![Linkedin Badge](https://img.shields.io/badge/-hrmeetsingh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrmeetsingh/)](https://www.linkedin.com/in/hrmeetsingh/)
 [![Profile visits](https://komarev.com/ghpvc/?username=hrmeetsingh&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=hrmeetsingh&label=Profile%20views&color=0e75b6&style=for-the-badge)
----
+
 <!--
 **hrmeetsingh/hrmeetsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
