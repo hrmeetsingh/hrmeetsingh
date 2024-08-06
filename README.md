@@ -1,5 +1,5 @@
 ### Hey
-I am Harmeet, an experienced professional with a passion for lifelong learning, mentoring and advocating open source, I am a bibliophile with an analytical mind, dedicated to continuous growth and innovation. Other than software, I enjoy working on IoT projects and reading about cybersecurity. My experience as an SDET is the reason I think of automating anything and everything around me.
+I am Harmeet, an experienced professional with a passion for lifelong learning, mentoring and advocating open source, I am a bibliophile with an analytical mind, dedicated to continuous growth and innovation. Other than code, I enjoy working on IoT projects and reading about cybersecurity. My experience as an SDET is the reason I think of automating anything and everything around me.
 
 __The repos here are__
 - __Tech and projects I am curious about and try to learn by doing__
