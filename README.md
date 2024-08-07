@@ -8,9 +8,7 @@ The repos are
 
 <details>
   <summary><b>Books I am currently reading</b></summary>
-  <br/>
 <!-- GOODREADS-LIST:START -->
-#### Books I am reading currently
 - ["Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](https://www.goodreads.com/review/show/4426713105?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐️4.26)
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/3404586472?utm_medium=api&utm_source=rss) by Robert M. Sapolsky (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
