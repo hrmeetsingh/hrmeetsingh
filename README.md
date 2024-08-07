@@ -6,6 +6,13 @@ The repos are
 - Tips and tricks I think I should keep handy for later use
 - Stuff I use for trainings and sessions
 
+<details>
+  <summary><b>Books I am currently reading</b></summary>
+  <br/>
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+</details>
+
 ![Harmeet's repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
 [![Github Badge](https://img.shields.io/badge/-hrmeetsingh-blue?style=for-the-badge&logo=Github&link=https://github.com/hrmeetsingh/)](https://github.com/hrmeetsingh/) 
