@@ -13,3 +13,4 @@ jobs:
         with:
           goodreads_user_id: "12291100"
           shelf: "currently-reading"
+          template: "[$title]($url) by $author"
