@@ -9,7 +9,7 @@ The repos are
 Books I am currently reading
 
 <!-- GOODREADS-LIST:START -->
-- ["Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](https://www.goodreads.com/review/show/4426713105?utm_medium=api&utm_source=rss) by Richard P. Feynman
+- [The Advice Trap: Be Humble, Stay Curious & Change the Way You Lead Forever](https://www.goodreads.com/review/show/6740778678?utm_medium=api&utm_source=rss) by Michael Bungay Stanier
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/3404586472?utm_medium=api&utm_source=rss) by Robert M. Sapolsky
 <!-- GOODREADS-LIST:END -->
 
