@@ -1,4 +1,4 @@
-name: Latest book list from a goodreads
+name: Latest book list from goodreads
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -9,8 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: zwacky/goodreads-profile-workflow@v1.2.4
         with:
           goodreads_user_id: "12291100"
           shelf: "currently-reading"
+          template: "- [$title]($url) by $author"
+      - uses: zwacky/goodreads-profile-workflow@v1.2.4
+        with:
+          goodreads_user_id: "12291100"
+          shelf: "read"
+          comment_tag_name: "GOODREADS-LIST-READ"
+          max_books_count: "5"
           template: "- [$title]($url) by $author"
