@@ -13,6 +13,10 @@ Books I am currently reading
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/3404586472?utm_medium=api&utm_source=rss) by Robert M. Sapolsky
 <!-- GOODREADS-LIST:END -->
 
+Books I read recently
+<!-- GOODREADS-LIST-READ:START -->
+<!-- GOODREADS-LIST-READ:END -->
+
 
 ![Harmeet's repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
@@ -21,17 +25,3 @@ Books I am currently reading
 [![Linkedin Badge](https://img.shields.io/badge/-hrmeetsingh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrmeetsingh/)](https://www.linkedin.com/in/hrmeetsingh/)
 [![Profile visits](https://komarev.com/ghpvc/?username=hrmeetsingh&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=hrmeetsingh&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-<!--
-**hrmeetsingh/hrmeetsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
