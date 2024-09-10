@@ -15,11 +15,11 @@ Books I am currently reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/2855668931?utm_medium=api&utm_source=rss) by Atul Gawande
 - [The Advice Trap: Be Humble, Stay Curious & Change the Way You Lead Forever](https://www.goodreads.com/review/show/6740778678?utm_medium=api&utm_source=rss) by Michael Bungay Stanier
 - ["Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](https://www.goodreads.com/review/show/4426713105?utm_medium=api&utm_source=rss) by Richard P. Feynman
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/review/show/6703664905?utm_medium=api&utm_source=rss) by Michael Bungay Stanier
 - [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.goodreads.com/review/show/6644421274?utm_medium=api&utm_source=rss) by Anna Lembke
-- [Read Write Own: Building the Next Era of the Internet](https://www.goodreads.com/review/show/6545487294?utm_medium=api&utm_source=rss) by Chris  Dixon
 <!-- GOODREADS-LIST-READ:END -->
 
 
