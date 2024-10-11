@@ -9,7 +9,6 @@ The repos are
 Books I am currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6836120924?utm_medium=api&utm_source=rss) by Cal Newport
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/3404586472?utm_medium=api&utm_source=rss) by Robert M. Sapolsky
 <!-- GOODREADS-LIST:END -->
 
