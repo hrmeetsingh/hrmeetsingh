@@ -15,11 +15,11 @@ Books I am currently reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [The Venture Mindset: How to Make Smarter Bets and Achieve Extraordinary Growth](https://www.goodreads.com/review/show/6646389320?utm_medium=api&utm_source=rss) by Ilya Strebulaev
 - [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6836120924?utm_medium=api&utm_source=rss) by Cal Newport
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/2855668931?utm_medium=api&utm_source=rss) by Atul Gawande
 - [The Advice Trap: Be Humble, Stay Curious & Change the Way You Lead Forever](https://www.goodreads.com/review/show/6740778678?utm_medium=api&utm_source=rss) by Michael Bungay Stanier
 - ["Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](https://www.goodreads.com/review/show/4426713105?utm_medium=api&utm_source=rss) by Richard P. Feynman
-- [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/review/show/6703664905?utm_medium=api&utm_source=rss) by Michael Bungay Stanier
 <!-- GOODREADS-LIST-READ:END -->
 
 
