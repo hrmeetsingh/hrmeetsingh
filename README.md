@@ -23,7 +23,12 @@ Books I read recently
 <!-- GOODREADS-LIST-READ:END -->
 
 My recent blog posts
-<!-- BLOG-POST-LIST:START -->- [I tried an automated Pull Request review strategy in my team and it worked!](https://hrmeet.medium.com/i-tried-an-automated-pull-request-review-strategy-in-my-team-and-it-worked-ed16e3738936?source=rss-71709fd0e3dd------2) -- Sun Jan 12 2025 7:55 AM- [TIL | Model Context Protocol and the use of AI Agents in automation testing](https://hrmeet.medium.com/til-model-context-protocol-and-the-use-of-ai-agents-in-automation-testing-45d57325429f?source=rss-71709fd0e3dd------2) -- Mon Dec 30 2024 5:56 AM- [Sankey Diagrams — The best suited visualizations for understanding flows](https://hrmeet.medium.com/sankey-diagrams-the-best-suited-visualizations-for-understanding-flows-8a9229bbdac3?source=rss-71709fd0e3dd------2) -- Sun Nov 17 2024 6:35 AM- [Metaverse for the Robots — Omniverse](https://hrmeet.medium.com/metaverse-for-the-robots-omniverse-0a2bc1da2ece?source=rss-71709fd0e3dd------2) -- Fri Nov 08 2024 5:45 AM- [The Search Engine and Ad wars](https://hrmeet.medium.com/the-search-engine-and-ad-wars-a81a3ee72bf4?source=rss-71709fd0e3dd------2) -- Fri Nov 01 2024 3:23 AM<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [I tried an automated Pull Request review strategy in my team and it worked!](https://hrmeet.medium.com/i-tried-an-automated-pull-request-review-strategy-in-my-team-and-it-worked-ed16e3738936?source=rss-71709fd0e3dd------2) 
+- [TIL | Model Context Protocol and the use of AI Agents in automation testing](https://hrmeet.medium.com/til-model-context-protocol-and-the-use-of-ai-agents-in-automation-testing-45d57325429f?source=rss-71709fd0e3dd------2) 
+- [Sankey Diagrams — The best suited visualizations for understanding flows](https://hrmeet.medium.com/sankey-diagrams-the-best-suited-visualizations-for-understanding-flows-8a9229bbdac3?source=rss-71709fd0e3dd------2) 
+- [Metaverse for the Robots — Omniverse](https://hrmeet.medium.com/metaverse-for-the-robots-omniverse-0a2bc1da2ece?source=rss-71709fd0e3dd------2) 
+- [The Search Engine and Ad wars](https://hrmeet.medium.com/the-search-engine-and-ad-wars-a81a3ee72bf4?source=rss-71709fd0e3dd------2) 
+<!-- BLOG-POST-LIST:END -->
 
 ![Harmeet's repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
