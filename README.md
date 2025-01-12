@@ -22,6 +22,9 @@ Books I read recently
 - [The Advice Trap: Be Humble, Stay Curious & Change the Way You Lead Forever](https://www.goodreads.com/review/show/6740778678?utm_medium=api&utm_source=rss) by Michael Bungay Stanier
 <!-- GOODREADS-LIST-READ:END -->
 
+My recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Harmeet's repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
