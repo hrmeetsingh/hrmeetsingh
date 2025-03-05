@@ -14,11 +14,11 @@ Books I am currently reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [Nexus: A Brief History of Information Networks from the Stone Age to AI](https://www.goodreads.com/review/show/7089928610?utm_medium=api&utm_source=rss) by Yuval Noah Harari
 - [The Anthropocene Reviewed: Essays on a Human-Centered Planet](https://www.goodreads.com/review/show/4496164811?utm_medium=api&utm_source=rss) by John Green
 - [The Venture Mindset: How to Make Smarter Bets and Achieve Extraordinary Growth](https://www.goodreads.com/review/show/6646389320?utm_medium=api&utm_source=rss) by Ilya Strebulaev
 - [Slow Productivity: The Lost Art of Accomplishment Without Burnout](https://www.goodreads.com/review/show/6836120924?utm_medium=api&utm_source=rss) by Cal Newport
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/2855668931?utm_medium=api&utm_source=rss) by Atul Gawande
-- [The Advice Trap: Be Humble, Stay Curious & Change the Way You Lead Forever](https://www.goodreads.com/review/show/6740778678?utm_medium=api&utm_source=rss) by Michael Bungay Stanier
 <!-- GOODREADS-LIST-READ:END -->
 
 My recent blog posts
