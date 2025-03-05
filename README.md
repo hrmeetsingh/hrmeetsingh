@@ -9,6 +9,7 @@ The repos are
 Books I am currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [Becoming Bulletproof: Protect Yourself, Read People, Influence Situations, and Live Fearlessly](https://www.goodreads.com/review/show/7376372134?utm_medium=api&utm_source=rss) by Evy Poumpouras
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/3404586472?utm_medium=api&utm_source=rss) by Robert M. Sapolsky
 <!-- GOODREADS-LIST:END -->
 
