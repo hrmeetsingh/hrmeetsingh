@@ -9,7 +9,6 @@ The repos are
 Books I am currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [Nexus: A Brief History of Information Networks from the Stone Age to AI](https://www.goodreads.com/review/show/7089928610?utm_medium=api&utm_source=rss) by Yuval Noah Harari
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/3404586472?utm_medium=api&utm_source=rss) by Robert M. Sapolsky
 <!-- GOODREADS-LIST:END -->
 
