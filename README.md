@@ -24,11 +24,11 @@ Books I read recently
 
 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Using Playwright Custom Matchers to Automate Layout Testing](https://hrmeet.medium.com/using-playwright-custom-matchers-to-automate-layout-testing-be8fa0063ebd?source=rss-71709fd0e3dd------2)
  - [Client-Side Performance - Testing Manually and Automating Perf Tests](https://hrmeet.medium.com/client-side-performance-testing-manually-and-automating-perf-tests-bb1e7f20a8c4?source=rss-71709fd0e3dd------2)
  - [Mind Maps — The learning tool I wish I had discovered sooner](https://hrmeet.medium.com/mind-maps-the-learning-tool-i-wish-i-had-discovered-sooner-f3bcde67f3f1?source=rss-71709fd0e3dd------2)
  - [I tried an automated Pull Request review strategy in my team and it worked!](https://hrmeet.medium.com/i-tried-an-automated-pull-request-review-strategy-in-my-team-and-it-worked-ed16e3738936?source=rss-71709fd0e3dd------2)
- - [TIL | Model Context Protocol and the use of AI Agents in automation testing](https://hrmeet.medium.com/til-model-context-protocol-and-the-use-of-ai-agents-in-automation-testing-45d57325429f?source=rss-71709fd0e3dd------2)
- - [Sankey Diagrams — The best suited visualizations for understanding flows](https://hrmeet.medium.com/sankey-diagrams-the-best-suited-visualizations-for-understanding-flows-8a9229bbdac3?source=rss-71709fd0e3dd------2)<!-- BLOG-POST-LIST:END -->
+ - [TIL | Model Context Protocol and the use of AI Agents in automation testing](https://hrmeet.medium.com/til-model-context-protocol-and-the-use-of-ai-agents-in-automation-testing-45d57325429f?source=rss-71709fd0e3dd------2)<!-- BLOG-POST-LIST:END -->
 
 ![Harmeet's repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
