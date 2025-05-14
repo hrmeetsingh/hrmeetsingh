@@ -9,6 +9,7 @@ The repos are
 Books I am currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Collected Works of Chase Hughes](https://www.goodreads.com/review/show/7134655266?utm_medium=api&utm_source=rss) by Chase     Hughes
 - [Mera Dagistan Punjabi](https://www.goodreads.com/review/show/7561347386?utm_medium=api&utm_source=rss) by Rasul Gamzatov
 - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/3404586472?utm_medium=api&utm_source=rss) by Robert M. Sapolsky
 <!-- GOODREADS-LIST:END -->
