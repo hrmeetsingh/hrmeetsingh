@@ -15,11 +15,11 @@ Books I am currently reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [The Collected Works of Chase Hughes](https://www.goodreads.com/review/show/7134655266?utm_medium=api&utm_source=rss) by Chase     Hughes
 - [Kothe Kharak Singh](https://www.goodreads.com/review/show/7561342749?utm_medium=api&utm_source=rss) by Ram Sarup Ankhi
 - [ਹੰਨੈ ਹੰਨੈ ਪਾਤਸ਼ਾਹੀ](https://www.goodreads.com/review/show/7561308250?utm_medium=api&utm_source=rss) by ਜਗਦੀਪ ਸਿੰਘ
 - [Chitta Lahu](https://www.goodreads.com/review/show/7561311496?utm_medium=api&utm_source=rss) by Nanak Singh
 - [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/review/show/7507241996?utm_medium=api&utm_source=rss) by Shane Parrish
-- [Becoming Bulletproof: Protect Yourself, Read People, Influence Situations, and Live Fearlessly](https://www.goodreads.com/review/show/7376372134?utm_medium=api&utm_source=rss) by Evy Poumpouras
 <!-- GOODREADS-LIST-READ:END -->
 
 My recent blog posts
