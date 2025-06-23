@@ -9,7 +9,6 @@ The repos are
 Books I am currently reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Let Them Theory](https://www.goodreads.com/review/show/7605347773?utm_medium=api&utm_source=rss) by Mel Robbins
 - [Mera Dagistan Punjabi](https://www.goodreads.com/review/show/7561347386?utm_medium=api&utm_source=rss) by Rasul Gamzatov
 <!-- GOODREADS-LIST:END -->
 
