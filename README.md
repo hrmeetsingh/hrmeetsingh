@@ -6,7 +6,7 @@ The repos are
 - Tips and tricks I think I should keep handy for later use
 - Stuff I use for trainings and sessions
 
-Books I am currently reading
+Books I am reading
 
 <!-- GOODREADS-LIST:START -->
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/7688077358?utm_medium=api&utm_source=rss) by Will Larson
