@@ -10,7 +10,6 @@ Books I am reading
 
 <!-- GOODREADS-LIST:START -->
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/7688077358?utm_medium=api&utm_source=rss) by Will Larson
-- [Mera Dagistan Punjabi](https://www.goodreads.com/review/show/7561347386?utm_medium=api&utm_source=rss) by Rasul Gamzatov
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
