@@ -23,11 +23,11 @@ Books I read recently
 
 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [TIL | SIMD — Single Instruction Multiple Data](https://hrmeet.medium.com/til-simd-single-instruction-multiple-data-92c88a1a540d?source=rss-71709fd0e3dd------2)
  - [A Simple Tool to Handle Multiple GitHub Accounts Locally](https://hrmeet.medium.com/a-simple-tool-to-handle-multiple-github-accounts-locally-0b56010394e1?source=rss-71709fd0e3dd------2)
  - [Sprinkle Some Syntactic Sugar on Your Tests With TypeScript Decorators](https://javascript.plainenglish.io/sprinkle-some-syntactic-sugar-on-your-tests-with-typescript-decorators-e2984460760b?source=rss-71709fd0e3dd------2)
  - [Using Playwright Custom Matchers to Automate Layout Testing](https://hrmeet.medium.com/using-playwright-custom-matchers-to-automate-layout-testing-be8fa0063ebd?source=rss-71709fd0e3dd------2)
- - [Client-Side Performance - Testing Manually and Automating Perf Tests](https://hrmeet.medium.com/client-side-performance-testing-manually-and-automating-perf-tests-bb1e7f20a8c4?source=rss-71709fd0e3dd------2)
- - [Mind Maps — The learning tool I wish I had discovered sooner](https://hrmeet.medium.com/mind-maps-the-learning-tool-i-wish-i-had-discovered-sooner-f3bcde67f3f1?source=rss-71709fd0e3dd------2)<!-- BLOG-POST-LIST:END -->
+ - [Client-Side Performance - Testing Manually and Automating Perf Tests](https://hrmeet.medium.com/client-side-performance-testing-manually-and-automating-perf-tests-bb1e7f20a8c4?source=rss-71709fd0e3dd------2)<!-- BLOG-POST-LIST:END -->
 
 ![Harmeet's repo stats](https://github-readme-stats.vercel.app/api?username=hrmeetsingh&theme=github_dark&show_icons=true)
 
