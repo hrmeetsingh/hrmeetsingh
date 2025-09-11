@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/7688077358?utm_medium=api&utm_source=rss) by Will Larson
+- [And the Mountains Echoed](https://www.goodreads.com/review/show/7903726599?utm_medium=api&utm_source=rss) by Khaled Hosseini
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
