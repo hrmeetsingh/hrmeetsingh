@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [And the Mountains Echoed](https://www.goodreads.com/review/show/7903726599?utm_medium=api&utm_source=rss) by Khaled Hosseini
+- [The Art of Spending Money: Simple Choices for a Richer Life](https://www.goodreads.com/review/show/7981067608?utm_medium=api&utm_source=rss) by Morgan Housel
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
