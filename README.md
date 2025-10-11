@@ -14,11 +14,11 @@ Books I am reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [And the Mountains Echoed](https://www.goodreads.com/review/show/7903726599?utm_medium=api&utm_source=rss) by Khaled Hosseini
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/7688077358?utm_medium=api&utm_source=rss) by Will Larson
 - [Mera Dagistan Punjabi](https://www.goodreads.com/review/show/7561347386?utm_medium=api&utm_source=rss) by Rasul Gamzatov
 - [The Collected Works of Chase Hughes](https://www.goodreads.com/review/show/7134655266?utm_medium=api&utm_source=rss) by Chase     Hughes
 - [The Let Them Theory](https://www.goodreads.com/review/show/7605347773?utm_medium=api&utm_source=rss) by Mel Robbins
-- [Kothe Kharak Singh](https://www.goodreads.com/review/show/7561342749?utm_medium=api&utm_source=rss) by Ram Sarup Ankhi
 <!-- GOODREADS-LIST-READ:END -->
 
 My recent blog posts
