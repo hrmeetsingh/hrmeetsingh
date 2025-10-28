@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Art of Spending Money: Simple Choices for a Richer Life](https://www.goodreads.com/review/show/7981067608?utm_medium=api&utm_source=rss) by Morgan Housel
+- [Outwitting the Devil: The Secret to Freedom and Success](https://www.goodreads.com/review/show/8024549674?utm_medium=api&utm_source=rss) by Napoleon Hill
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
