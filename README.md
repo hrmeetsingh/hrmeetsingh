@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [Outwitting the Devil: The Secret to Freedom and Success](https://www.goodreads.com/review/show/8024549674?utm_medium=api&utm_source=rss) by Napoleon Hill
+- [The Courage to Be Disliked: A single book can change your life](https://www.goodreads.com/review/show/8034715864?utm_medium=api&utm_source=rss) by Ichiro Kishimi
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
