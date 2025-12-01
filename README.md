@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Courage to Be Disliked: A single book can change your life](https://www.goodreads.com/review/show/8034715864?utm_medium=api&utm_source=rss) by Ichiro Kishimi
+- [The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/8034715864?utm_medium=api&utm_source=rss) by Ichiro Kishimi
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
