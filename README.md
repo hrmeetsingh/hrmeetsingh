@@ -14,11 +14,11 @@ Books I am reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/8034715864?utm_medium=api&utm_source=rss) by Ichiro Kishimi
 - [The Art of Spending Money: Simple Choices for a Richer Life](https://www.goodreads.com/review/show/7981067608?utm_medium=api&utm_source=rss) by Morgan Housel
 - [And the Mountains Echoed](https://www.goodreads.com/review/show/7903726599?utm_medium=api&utm_source=rss) by Khaled Hosseini
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/review/show/7688077358?utm_medium=api&utm_source=rss) by Will Larson
 - [Mera Dagistan Punjabi](https://www.goodreads.com/review/show/7561347386?utm_medium=api&utm_source=rss) by Rasul Gamzatov
-- [The Collected Works of Chase Hughes](https://www.goodreads.com/review/show/7134655266?utm_medium=api&utm_source=rss) by Chase     Hughes
 <!-- GOODREADS-LIST-READ:END -->
 
 My recent blog posts
