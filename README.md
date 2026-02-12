@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman](https://www.goodreads.com/review/show/8075601281?utm_medium=api&utm_source=rss) by Richard P. Feynman
+- [A Philosophy of Software Design](https://www.goodreads.com/review/show/8350824834?utm_medium=api&utm_source=rss) by John Ousterhout
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
