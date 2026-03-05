@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [A Philosophy of Software Design](https://www.goodreads.com/review/show/8350824834?utm_medium=api&utm_source=rss) by John Ousterhout
+- [War](https://www.goodreads.com/review/show/8410694751?utm_medium=api&utm_source=rss) by Bob Woodward
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
