@@ -9,7 +9,7 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [War](https://www.goodreads.com/review/show/8410694751?utm_medium=api&utm_source=rss) by Bob Woodward
+- [Genghis Khan and the Making of the Modern World](https://www.goodreads.com/review/show/2518680406?utm_medium=api&utm_source=rss) by Jack Weatherford
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
