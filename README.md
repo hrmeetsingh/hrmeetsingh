@@ -14,11 +14,11 @@ Books I am reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [War](https://www.goodreads.com/review/show/8410694751?utm_medium=api&utm_source=rss) by Bob Woodward
 - [A Philosophy of Software Design](https://www.goodreads.com/review/show/8350824834?utm_medium=api&utm_source=rss) by John Ousterhout
 - [The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman](https://www.goodreads.com/review/show/8075601281?utm_medium=api&utm_source=rss) by Richard P. Feynman
 - [The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/8034715864?utm_medium=api&utm_source=rss) by Ichiro Kishimi
 - [The Art of Spending Money: Simple Choices for a Richer Life](https://www.goodreads.com/review/show/7981067608?utm_medium=api&utm_source=rss) by Morgan Housel
-- [And the Mountains Echoed](https://www.goodreads.com/review/show/7903726599?utm_medium=api&utm_source=rss) by Khaled Hosseini
 <!-- GOODREADS-LIST-READ:END -->
 
 My recent blog posts
