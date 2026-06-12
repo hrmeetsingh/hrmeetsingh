@@ -9,7 +9,8 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [Genghis Khan and the Making of the Modern World](https://www.goodreads.com/review/show/2518680406?utm_medium=api&utm_source=rss) by Jack Weatherford
+- [All the Shah's Men: An American Coup and the Roots of Middle East Terror](https://www.goodreads.com/review/show/8498203936?utm_medium=api&utm_source=rss) by Stephen Kinzer
+- [Call Sign Chaos: Learning to Lead](https://www.goodreads.com/review/show/3197166509?utm_medium=api&utm_source=rss) by Jim Mattis
 <!-- GOODREADS-LIST:END -->
 
 Books I read recently
