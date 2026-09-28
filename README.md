@@ -9,7 +9,6 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
-- [On Character: Choices That Define a Life](https://www.goodreads.com/review/show/8355310565?utm_medium=api&utm_source=rss) by Stanley McChrystal
 - [All the Shah's Men: An American Coup and the Roots of Middle East Terror](https://www.goodreads.com/review/show/8498203936?utm_medium=api&utm_source=rss) by Stephen Kinzer
 <!-- GOODREADS-LIST:END -->
 
