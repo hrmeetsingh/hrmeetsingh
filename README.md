@@ -14,11 +14,11 @@ Books I am reading
 
 Books I read recently
 <!-- GOODREADS-LIST-READ:START -->
+- [On Character: Choices That Define a Life](https://www.goodreads.com/review/show/8355310565?utm_medium=api&utm_source=rss) by Stanley McChrystal
 - [Never Finished: Unshackle Your Mind and Win the War Within](https://www.goodreads.com/review/show/8398500549?utm_medium=api&utm_source=rss) by David Goggins
 - [Call Sign Chaos: Learning to Lead](https://www.goodreads.com/review/show/3197166509?utm_medium=api&utm_source=rss) by Jim Mattis
 - [Genghis Khan and the Making of the Modern World](https://www.goodreads.com/review/show/2518680406?utm_medium=api&utm_source=rss) by Jack Weatherford
 - [War](https://www.goodreads.com/review/show/8410694751?utm_medium=api&utm_source=rss) by Bob Woodward
-- [A Philosophy of Software Design](https://www.goodreads.com/review/show/8350824834?utm_medium=api&utm_source=rss) by John Ousterhout
 <!-- GOODREADS-LIST-READ:END -->
 
 My recent blog posts
