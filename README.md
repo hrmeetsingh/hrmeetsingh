@@ -9,6 +9,8 @@ The repos are
 Books I am reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Lessons of History](https://www.goodreads.com/review/show/8551538327?utm_medium=api&utm_source=rss) by Will Durant
+- [Rage](https://www.goodreads.com/review/show/9021826563?utm_medium=api&utm_source=rss) by Bob Woodward
 - [All the Shah's Men: An American Coup and the Roots of Middle East Terror](https://www.goodreads.com/review/show/8498203936?utm_medium=api&utm_source=rss) by Stephen Kinzer
 <!-- GOODREADS-LIST:END -->
 
